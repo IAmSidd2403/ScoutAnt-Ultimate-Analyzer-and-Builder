@@ -1,4 +1,4 @@
-*.json
+# *.json (removed to allow all JSON files)
 !match_stats_db.json
 *.pyc
 __pycache__/
